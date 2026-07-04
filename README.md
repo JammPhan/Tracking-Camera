@@ -20,11 +20,13 @@ Printed the parts and connected the hardware together. Checking that everything 
 
 What I have learnt:
 
-Improvements:
+Improvements: Add a space to put Raspberry Pi board into tracking camera and servo driver, add some tubes to clean up wires, Learn more features of CAD to look for more improvements to the frame design.
 
 
 
 Week 2:
+
+Goals: Learn some OpenCV and achieve tracking of a tennis ball (coloured tracking).
 
 
 
